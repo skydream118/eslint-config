@@ -1,0 +1,15 @@
+{
+  "name": "asher-eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint preset for unifying the configuration across the projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ESLint",
+    "u+"
+  ],
+  "author": "Asher Lee",
+  "license": "ISC"
+}
