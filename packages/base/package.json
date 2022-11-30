@@ -1,6 +1,6 @@
 {
   "name": "asher-eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint preset for unifying the configuration across the projects",
   "main": "index.js",
   "scripts": {
