@@ -26,11 +26,9 @@
   },
   "exclude": [
     "node_modules",
-    "cdk"
   ],
   "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx"
+    "__tests__/*.ts",
+    "__tests__/*.tsx"
   ]
 }
